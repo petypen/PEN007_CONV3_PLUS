@@ -28,7 +28,7 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c703af8c-b444-431e-ad7d-2959545cef85"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="41143920-9870-41e7-ad57-d7fcb1e80bee"/>
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
-  <namePrefix>Расш1_</namePrefix>
+  <namePrefix>PEN007_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
@@ -46,4 +46,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.Расш1_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.PEN007_ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.PEN007_ОбщегоНазначенияВызовСервера</commonModules>
+  <commonModules>CommonModule.ПФИВызовСервера</commonModules>
+  <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
 </mdclass:Configuration>
