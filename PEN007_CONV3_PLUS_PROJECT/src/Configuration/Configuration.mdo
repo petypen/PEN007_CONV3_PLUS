@@ -65,6 +65,7 @@
   <commonModules>CommonModule.PEN007_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.PEN007_ОбщегоНазначенияВызовСервера</commonModules>
   <commonModules>CommonModule.ПФИВызовСервера</commonModules>
+  <commonModules>CommonModule.PEN007_МодификацияИнтерфейса</commonModules>
   <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
   <dataProcessors>DataProcessor.ВыгрузкаКонвертацииXML</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаКонвертацииXML</dataProcessors>
