@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="929eb33d-676e-40a1-a3dd-af311a1681dd">
-  <name>Расш1_ОсновнаяРоль</name>
+  <name>PEN007_ОсновнаяРоль</name>
   <synonym>
     <key>ru</key>
     <value>Основная роль</value>
