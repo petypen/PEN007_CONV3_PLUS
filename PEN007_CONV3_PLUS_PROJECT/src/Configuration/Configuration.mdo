@@ -70,6 +70,7 @@
   <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
   <catalogs>Catalog.Конвертации</catalogs>
   <catalogs>Catalog.СоставыКонвертаций</catalogs>
+  <enums>Enum.ТипыКонвертаций</enums>
   <dataProcessors>DataProcessor.ВыгрузкаКонвертацииXML</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаКонвертацииXML</dataProcessors>
 </mdclass:Configuration>
