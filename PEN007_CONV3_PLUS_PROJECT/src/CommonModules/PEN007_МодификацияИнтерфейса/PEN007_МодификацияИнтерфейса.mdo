@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9dca484-b757-466e-a450-9b81dfbe4d03">
+  <name>PEN007_МодификацияИнтерфейса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модификация интерфейса (PEN007)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
