@@ -27,14 +27,14 @@
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="41143920-9870-41e7-ad57-d7fcb1e80bee"/>
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>PEN007_</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.24</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <defaultRoles>Role.Расш1_ОсновнаяРоль</defaultRoles>
   <defaultLanguage>Language.Русский</defaultLanguage>
-  <compatibilityMode>8.3.14</compatibilityMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
   <languages uuid="ddb71579-e505-481b-9870-1af95f9b9a1b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
