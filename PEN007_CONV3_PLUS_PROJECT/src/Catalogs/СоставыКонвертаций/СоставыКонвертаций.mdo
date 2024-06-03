@@ -12,7 +12,6 @@
   <extension xsi:type="mdclassExtension:CatalogExtension">
     <extendedConfigurationObject>Checked</extendedConfigurationObject>
   </extension>
-  <useStandardCommands>true</useStandardCommands>
   <attributes uuid="0d3de6a7-c33c-41dc-bf9e-443f2ba55af4" extendedConfigurationObject="7f3ae64b-1028-4f83-aec1-430be980378a">
     <name>ЭлементКонвертации</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -25,5 +24,6 @@
         </types>
       </typeExtension>
     </extension>
+    <type/>
   </attributes>
 </mdclass:Catalog>
