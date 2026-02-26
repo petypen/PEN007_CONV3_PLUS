@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bdd8a54a-af60-4cc8-8e78-52a278e89d69">
+  <name>конс_АСТ_ПостроительКлиентСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Построитель AST клиент сервер</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>AST builder client server</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

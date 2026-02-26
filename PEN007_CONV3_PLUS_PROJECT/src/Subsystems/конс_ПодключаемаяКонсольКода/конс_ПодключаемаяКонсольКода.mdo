@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cdc3b84b-685b-4b8e-8b33-7eb9c592f12b">
+  <name>конс_ПодключаемаяКонсольКода</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конс подключаемая консоль кода</value>
+  </synonym>
+  <comment>https://github.com/Segate-ekb/code_editor</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonForm.конс_НастройкиПодключаемойКонсолиКода</content>
+  <content>CommonModule.конс_АСТ_ЛексерКлиентСервер</content>
+  <content>CommonModule.конс_АСТ_ПарсерКлиентСервер</content>
+  <content>CommonModule.конс_АСТ_ПостроительКлиентСервер</content>
+  <content>CommonModule.конс_АСТ_ПрепроцессорКлиентСервер</content>
+  <content>CommonModule.конс_ВМ_ВызовСервера</content>
+  <content>CommonModule.конс_ВМ_КлиентСервер</content>
+  <content>CommonModule.конс_ВМ_ОпКодыКлиентСервер</content>
+  <content>CommonModule.конс_КомпиляцияКлиентСервер</content>
+  <content>CommonModule.конс_КомпиляцияСемантикаКлиентСервер</content>
+  <content>CommonModule.конс_ПодключаемаяКонсольВызовСервера</content>
+  <content>CommonModule.конс_ПодключаемаяКонсольКлиент</content>
+  <content>CommonModule.конс_ПодключаемаяКонсольКлиентСервер</content>
+  <content>CommonModule.конс_ПодключаемаяКонсольПовтИсп</content>
+  <content>CommonModule.конс_ПодключаемаяКонсольСервер</content>
+  <content>CommonModule.конс_ПросмотрЗначенийКлиентСервер</content>
+  <content>CommonModule.конс_СистемаТиповКлиентСервер</content>
+  <content>CommonModule.конс_ТаблицыПереходовКлиентСервер</content>
+  <content>CommonModule.конс_ТаблицыПереходовПовтИсп</content>
+  <content>CommonTemplate.конс_ВстроенныеФункцииВМ</content>
+  <content>CommonTemplate.конс_Грамматика</content>
+  <content>CommonTemplate.конс_КонсольКода</content>
+  <content>CommonTemplate.конс_МетодыГлобальногоКонтекста</content>
+  <content>CommonTemplate.конс_СловарьТиповEn</content>
+  <content>CommonTemplate.конс_ОбработчикиОпКодовВМ</content>
+  <content>CommonTemplate.конс_СловарьТиповRu</content>
+  <content>CommonTemplate.конс_ТаблицаПереходовЛексера</content>
+  <content>CommonTemplate.конс_ТаблицаПереходовПарсера</content>
+  <content>Enum.конс_РежимПоказаПеременных</content>
+</mdclass:Subsystem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2a8e5dce-6a88-4ef2-8507-e561683a6ee8">
+  <name>конс_ВстроенныеФункцииВМ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Встроенные функции ВМ</value>
+  </synonym>
+  <comment>JSON-словарь встроенных функций языка для виртуальной машины. Загружается в конс_ВМ_КлиентСервер.</comment>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>

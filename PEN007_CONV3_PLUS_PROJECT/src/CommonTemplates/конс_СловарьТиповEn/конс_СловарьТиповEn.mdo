@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4598061-958c-4207-b5d7-753495cf069f">
+  <name>конс_СловарьТиповEn</name>
+  <synonym>
+    <key>ru</key>
+    <value>Словарь типов (En)</value>
+  </synonym>
+  <comment>JSON-словарь описания типов для английской локализации. Загружается в конс_СистемаТиповКлиентСервер.</comment>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>
