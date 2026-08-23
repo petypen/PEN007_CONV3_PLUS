@@ -9,14 +9,10 @@
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
-    <managedApplicationModule>Extended</managedApplicationModule>
-    <sessionModule>Extended</sessionModule>
-    <externalConnectionModule>Extended</externalConnectionModule>
     <defaultLanguage>Checked</defaultLanguage>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
     <compatibilityMode>Checked</compatibilityMode>
     <defaultStyle>Extended</defaultStyle>
-    <defaultRoles>Extended</defaultRoles>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="59a238b4-f718-4757-8538-9aab2d07e0fc"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e560ead8-65b3-4802-94de-cc23592517dc"/>
@@ -71,6 +67,7 @@
   <catalogs>Catalog.Конвертации</catalogs>
   <catalogs>Catalog.СоставыКонвертаций</catalogs>
   <enums>Enum.ТипыКонвертаций</enums>
+  <enums>Enum.ВариантыИдентификацииОбъектов</enums>
   <dataProcessors>DataProcessor.ВыгрузкаКонвертацииXML</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаКонвертацииXML</dataProcessors>
 </mdclass:Configuration>
