@@ -66,6 +66,7 @@
   <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
   <catalogs>Catalog.Конвертации</catalogs>
   <catalogs>Catalog.СоставыКонвертаций</catalogs>
+  <catalogs>Catalog.ПравилаКонвертацииОбъектов</catalogs>
   <enums>Enum.ТипыКонвертаций</enums>
   <enums>Enum.ВариантыИдентификацииОбъектов</enums>
   <dataProcessors>DataProcessor.ВыгрузкаКонвертацииXML</dataProcessors>
