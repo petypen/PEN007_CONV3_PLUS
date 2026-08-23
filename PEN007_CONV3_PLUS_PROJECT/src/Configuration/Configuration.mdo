@@ -28,7 +28,6 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
-  <defaultRoles>Role.PEN007_ОсновнаяРоль</defaultRoles>
   <vendor>@petypen</vendor>
   <version>0.15</version>
   <defaultLanguage>Language.Русский</defaultLanguage>

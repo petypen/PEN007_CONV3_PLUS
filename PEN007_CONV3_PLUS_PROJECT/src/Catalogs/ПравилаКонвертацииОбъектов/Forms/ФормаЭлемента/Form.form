@@ -6934,11 +6934,6 @@
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>
-  <handlers xsi:type="form:EventHandlerExtension">
-    <event>OnCreateAtServer</event>
-    <name>PEN007_ПриСозданииНаСервереПосле</name>
-    <callType>After</callType>
-  </handlers>
   <windowOpeningMode>DontBlock</windowOpeningMode>
   <autoSaveDataInSettings>Use</autoSaveDataInSettings>
   <saveWindowSettings>true</saveWindowSettings>
