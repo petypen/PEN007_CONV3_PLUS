@@ -56,46 +56,16 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.конс_ПодключаемаяКонсольКода</subsystems>
   <roles>Role.PEN007_ОсновнаяРоль</roles>
-  <commonTemplates>CommonTemplate.конс_ВстроенныеФункцииВМ</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_Грамматика</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_КонсольКода</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_МетодыГлобальногоКонтекста</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_ОбработчикиОпКодовВМ</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_СловарьТиповEn</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_СловарьТиповRu</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_ТаблицаПереходовЛексера</commonTemplates>
-  <commonTemplates>CommonTemplate.конс_ТаблицаПереходовПарсера</commonTemplates>
-  <commonModules>CommonModule.конс_АСТ_ЛексерКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_АСТ_ПарсерКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_АСТ_ПостроительКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_АСТ_ПрепроцессорКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ВМ_ВызовСервера</commonModules>
-  <commonModules>CommonModule.конс_ВМ_КлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ВМ_ОпКодыКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_КомпиляцияКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_КомпиляцияСемантикаКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ПодключаемаяКонсольВызовСервера</commonModules>
-  <commonModules>CommonModule.конс_ПодключаемаяКонсольКлиент</commonModules>
-  <commonModules>CommonModule.конс_ПодключаемаяКонсольКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ПодключаемаяКонсольПовтИсп</commonModules>
-  <commonModules>CommonModule.конс_ПодключаемаяКонсольСервер</commonModules>
-  <commonModules>CommonModule.конс_ПросмотрЗначенийКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_СистемаТиповКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ТаблицыПереходовКлиентСервер</commonModules>
-  <commonModules>CommonModule.конс_ТаблицыПереходовПовтИсп</commonModules>
   <commonModules>CommonModule.PEN007_МодификацияИнтерфейса</commonModules>
   <commonModules>CommonModule.PEN007_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.PEN007_ОбщегоНазначенияВызовСервера</commonModules>
   <commonModules>CommonModule.PEN007_ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.ПФИВызовСервера</commonModules>
-  <commonForms>CommonForm.конс_НастройкиПодключаемойКонсолиКода</commonForms>
   <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
   <catalogs>Catalog.Конвертации</catalogs>
   <catalogs>Catalog.СоставыКонвертаций</catalogs>
   <catalogs>Catalog.Алгоритмы</catalogs>
-  <enums>Enum.конс_РежимПоказаПеременных</enums>
   <catalogs>Catalog.ПравилаКонвертацииОбъектов</catalogs>
   <enums>Enum.ТипыКонвертаций</enums>
   <enums>Enum.ВариантыИдентификацииОбъектов</enums>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="58415745-b9b4-4e39-afe1-5c699cada6f0">
-  <name>конс_ПодключаемаяКонсольКлиент</name>
-  <synonym>
-    <key>ru</key>
-    <value>Конс подключаемая консоль клиент</value>
-  </synonym>
-  <clientManagedApplication>true</clientManagedApplication>
-</mdclass:CommonModule>
