@@ -56,6 +56,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <styleItems>StyleItem.PEN007_ОтключенноеПравилоШрифт</styleItems>
   <roles>Role.PEN007_ОсновнаяРоль</roles>
   <commonModules>CommonModule.PEN007_МодификацияИнтерфейса</commonModules>
   <commonModules>CommonModule.PEN007_ОбщегоНазначения</commonModules>
