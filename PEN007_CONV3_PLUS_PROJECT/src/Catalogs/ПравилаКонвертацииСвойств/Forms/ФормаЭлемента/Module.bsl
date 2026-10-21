@@ -12,6 +12,8 @@
 
 #Область ОбработчикиКомандФормы
 
+//@skip-check module-structure-form-event-regions - обработчик программно добавленной команды формы
+//@skip-check module-unused-method
 &НаКлиенте
 Процедура PEN007_ОткрытьФормуПКО(Команда)
 
