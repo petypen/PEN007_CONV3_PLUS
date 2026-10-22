@@ -68,6 +68,7 @@
   <catalogs>Catalog.Конвертации</catalogs>
   <catalogs>Catalog.ПравилаКонвертацииОбъектов</catalogs>
   <catalogs>Catalog.ПравилаКонвертацииСвойств</catalogs>
+  <catalogs>Catalog.ПравилаОбработкиДанных</catalogs>
   <catalogs>Catalog.СоставыКонвертаций</catalogs>
   <enums>Enum.ВариантыИдентификацииОбъектов</enums>
   <enums>Enum.ТипыКонвертаций</enums>
